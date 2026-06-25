@@ -18,15 +18,10 @@ class Solution {
         }
 
         //calculating water stored at each level 
-        int water[]=  new int[len] ; 
-        for(int k  = 0 ; k < len ; k++)
-        {
-            water[k] = Math.min(lmax[k],rmax[k])-height[k] ; 
-        }
         int totalwater  = 0 ; 
         for(int l  = 0 ; l<len  ; l++)
         {
-            totalwater += water[l] ; 
+            totalwater += Math.min(lmax[l],rmax[l]) - height[l];
         }
         return totalwater ; 
     }
