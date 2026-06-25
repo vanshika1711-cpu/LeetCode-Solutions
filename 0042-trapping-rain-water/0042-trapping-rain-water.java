@@ -1,44 +1,33 @@
 class Solution {
     public int trap(int[] height) {
-
-        int left = 0;
-        int right = height.length - 1;
-
-        int leftMax = 0;
-        int rightMax = 0;
-
-        int water = 0;
-
-        while(left < right)
+        // [4,2,0,3,2,5]
+        int len = height.length ; 
+        int lmax[] = new int[len] ; 
+        lmax[0] = height[0] ; 
+        // calculating lmax 
+        for(int i = 1 ; i < len  ; i++)
         {
-            if(height[left] < height[right])
-            {
-                if(height[left] >= leftMax)
-                {
-                    leftMax = height[left];
-                }
-                else
-                {
-                    water += leftMax - height[left];
-                }
-
-                left++;
-            }
-            else
-            {
-                if(height[right] >= rightMax)
-                {
-                    rightMax = height[right];
-                }
-                else
-                {
-                    water += rightMax - height[right];
-                }
-
-                right--;
-            }
+          lmax[i] = Math.max(lmax[i-1],height[i]) ; 
+        }
+        int rmax[] = new int[len] ; 
+        //calculating rmax 
+        rmax[len-1] = height[len-1] ; 
+        for(int j = len-2 ; j>=0 ; j--)
+        {
+            rmax[j] = Math.max(rmax[j+1], height[j]) ; 
         }
 
-        return water;
+        //calculating water stored at each level 
+        int water[]=  new int[len] ; 
+        for(int k  = 0 ; k < len ; k++)
+        {
+            water[k] = Math.min(lmax[k],rmax[k])-height[k] ; 
+        }
+        int totalwater  = 0 ; 
+        for(int l  = 0 ; l<len  ; l++)
+        {
+            totalwater += water[l] ; 
+        }
+        return totalwater ; 
     }
 }
