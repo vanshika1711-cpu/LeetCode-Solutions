@@ -1,28 +1,43 @@
 class Solution {
     public int trap(int[] height) {
-        // [4,2,0,3,2,5]
-        int len = height.length ; 
-        int lmax[] = new int[len] ; 
-        lmax[0] = height[0] ; 
-        // calculating lmax 
-        for(int i = 1 ; i < len  ; i++)
-        {
-          lmax[i] = Math.max(lmax[i-1],height[i]) ; 
-        }
-        int rmax[] = new int[len] ; 
-        //calculating rmax 
-        rmax[len-1] = height[len-1] ; 
-        for(int j = len-2 ; j>=0 ; j--)
-        {
-            rmax[j] = Math.max(rmax[j+1], height[j]) ; 
+
+        int n = height.length;
+
+        // highest bar ka index
+        int peak = 0;
+
+        for(int i = 1; i < n; i++) {
+            if(height[i] > height[peak]) {
+                peak = i;
+            }
         }
 
-        //calculating water stored at each level 
-        int totalwater  = 0 ; 
-        for(int l  = 0 ; l<len  ; l++)
-        {
-            totalwater += Math.min(lmax[l],rmax[l]) - height[l];
+        int water = 0;
+
+        // Left part
+        int leftMax = height[0];
+
+        for(int i = 1; i < peak; i++) {
+
+            if(height[i] < leftMax) {
+                water += leftMax - height[i];
+            } else {
+                leftMax = height[i];
+            }
         }
-        return totalwater ; 
+
+        // Right part
+        int rightMax = height[n - 1];
+
+        for(int i = n - 2; i > peak; i--) {
+
+            if(height[i] < rightMax) {
+                water += rightMax - height[i];
+            } else {
+                rightMax = height[i];
+            }
+        }
+
+        return water;
     }
 }
