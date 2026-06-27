@@ -15,13 +15,15 @@ class Solution {
             {
                 nums3[k]=nums1[i] ; 
                 i++; 
+                k++;
             }
             else 
             {
                 nums3[k]=nums2[j]; 
                 j++;
+                k++;
             }
-            k++;
+            
         }
         while(i<len1)
         {
