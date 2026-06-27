@@ -10,7 +10,7 @@ class Solution {
                 seen[nums[i]]= true  ; 
             }
         }
-        for(int i  = 1 ; i <= len ; i++)
+        for(int i  = 1 ; i < seen.length ; i++)
         {
             if(seen[i]==false)
             {
