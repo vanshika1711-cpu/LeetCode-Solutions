@@ -1,23 +1,37 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int len  = nums.length  ; 
-        // extra space 
-        boolean seen[] = new boolean [len+1] ; 
+        // remove unnecessary numbers 
+        // 3 4 -1 1 
+        for(int i  = 0 ;i < len ; i++)
+        {
+            if(nums[i]<=0)
+            {
+                nums[i]=len+1 ; 
+            }
+        }
+        // 3 4 5 1 
+        // mark negative 
+        for(int i  = 0 ; i < len  ; i++)
+        {
+            int num  = Math.abs(nums[i]) ; 
+            if(num<=len)
+            {
+                int idx  = num -1 ;  
+                if(nums[idx]>0)
+                {
+                    nums[idx]*=-1 ; 
+                }
+            }
+        }
+        // check who is positive now ???
         for(int i  = 0 ; i < len ; i++)
         {
-            if(nums[i]>=1 && nums[i]<=len)
+            if(nums[i]>0)
             {
-                seen[nums[i]]= true  ; 
+                return i +1 ; 
             }
         }
-        // returning the index which is false 
-        for(int i  = 1 ; i < seen.length  ; i++)
-        {
-            if(seen[i]==false)
-            {
-                return i ; 
-            }
-        }
-        return len+1 ; 
+        return len +1 ; 
     }
 }
