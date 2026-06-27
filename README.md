@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0041-first-missing-positive](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 <!---LeetCode Topics End-->
