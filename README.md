@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
