@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
