@@ -1,6 +1,9 @@
 class Solution {
     public int trap(int[] height) {
-        int len = height.length ; 
+    // crunch of this question 
+    // trap[i] = min(leftmax , rightmax)-height[i] ; 
+    
+         int len = height.length ; 
         int lmax  = 0 ; 
         int rmax  = 0  ; 
         int water = 0 ; 
@@ -43,5 +46,6 @@ class Solution {
         }
         return water ; 
 
+    
     }
 }
