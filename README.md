@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
