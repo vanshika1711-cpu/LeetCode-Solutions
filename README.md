@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
