@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
