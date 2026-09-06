@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
