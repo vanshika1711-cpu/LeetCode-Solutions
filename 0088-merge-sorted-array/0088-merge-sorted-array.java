@@ -1,43 +1,28 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-      // normal extra space approach 
-      int len  = m +  n ; 
-      int nums3[] = new int[len] ; 
-      int i  = 0 ; 
-      int j = 0  ;
-      int k = 0 ; 
-      while(i<m && j <n )
-      {
-        if(nums1[i]<=nums2[j])
+    int i  = m-1 ; 
+    int j  = n-1 ; 
+    int k  = m + n -1 ; 
+     while(i>=0 && j >= 0)
+     {
+        if(nums1[i]>nums2[j])
         {
-            nums3[k] = nums1[i] ; 
-            k++;
-            i++ ;
+            nums1[k] = nums1[i];  
+            i--;  
+            k-- ; 
         }
-        else 
+        else
         {
-            nums3[k] = nums2[j] ; 
-            k++; 
-            j++ ;
+            nums1[k] = nums2[j] ; 
+            j-- ; 
+            k--;
         }
-      }
-      // remaning ones 
-      while(i<m)
-      {
-        nums3[k] = nums1[i] ; 
-        k++; 
-        i++ ;
-      }
-       while(j<n)
-      {
-        nums3[k] = nums2[j] ; 
-        k++; 
-        j++ ;
-      }
-      // return all ans to nums 1
-      for(int x  = 0  ; x < len  ; x++)
-      {
-        nums1[x] = nums3[x];
-      }
+     }
+     // remaining 
+     while (j >= 0) {
+            nums1[k] = nums2[j];
+            j--;
+            k--;
+        }
     }
 }
