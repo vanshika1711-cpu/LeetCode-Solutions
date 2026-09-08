@@ -7,9 +7,7 @@ class Solution {
             if(nums[i]!=nums[j])
             {
               i++ ;
-             int temp = nums[j] ; 
-             nums[j] = nums[i] ;
-             nums[i] = temp ;
+              nums[i]= nums[j] ;
 
             }
         }
