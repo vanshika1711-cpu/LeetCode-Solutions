@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,8 +157,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
