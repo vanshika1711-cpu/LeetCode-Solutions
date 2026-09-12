@@ -5,7 +5,7 @@ class Solution {
         int light  = 0  ; 
         int heavy  = len-1 ; 
         int boat  = 0  ;   
-        while(light<heavy)
+        while(light<=heavy)
         {
             if(people[light]+people[heavy]<=limit)
             {
@@ -20,11 +20,7 @@ class Solution {
             }
 
         }
-        if(light==heavy)
-        {
-            boat++ ;
-
-        }
+        
         return boat ; 
     }
 }
