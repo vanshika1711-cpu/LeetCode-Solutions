@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
