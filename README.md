@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
