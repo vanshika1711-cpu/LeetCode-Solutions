@@ -219,4 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
