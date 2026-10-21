@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0735-asteroid-collision](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0735-asteroid-collision](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
