@@ -3,18 +3,18 @@ import java.util.*;
 
 class Solution {
     public List<Long> mergeAdjacent(int[] nums) {
-        List<Long> list = new ArrayList<>();
+        Stack<Long> stack = new Stack<>();
 
         for (int num : nums) {
             long value = num;
 
-            while (!list.isEmpty() && list.get(list.size() - 1) == value) {
-                value += list.remove(list.size() - 1);
+            while (!stack.isEmpty() && stack.peek() == value) {
+                value += stack.pop();
             }
 
-            list.add(value);
+            stack.push(value);
         }
 
-        return list;
+        return new ArrayList<>(stack);
     }
 }
