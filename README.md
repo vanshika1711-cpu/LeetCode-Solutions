@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
