@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,12 +76,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0735-asteroid-collision](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/vanshika1711-cpu/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
